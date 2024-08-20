@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: #2F4F4F;
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: #FF0000;
 }
